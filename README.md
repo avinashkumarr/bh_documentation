@@ -19,3 +19,6 @@ A Job object
 -   `type` **[string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** 
 -   `date` **[date](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Date)** 
 -   `status` **[string](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** 
+
+
+ 
